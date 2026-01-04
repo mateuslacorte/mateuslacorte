@@ -31,6 +31,7 @@
 
 #### Build:
 _MacBook Pro 16'' Mid 2021 A2485_:
+
 ![Apple M1 Pro](https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![macOS_Tahoe](https://img.shields.io/badge/macOS_Tahoe-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![Safari](https://img.shields.io/badge/Safari-017CEE?style=for-the-badge&logo=Safari&logoColor=white)&nbsp;</br> 
